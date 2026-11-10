@@ -1,0 +1,1 @@
+# Damasevich Stanislau CV / Resume — LaTeX
